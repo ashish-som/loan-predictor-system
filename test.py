@@ -1,4 +1,5 @@
 a=10
 b=20
-c=a+b
-print(c)
+result=a+b
+print(f'The addition is {result}')
+print('Thanks!')
